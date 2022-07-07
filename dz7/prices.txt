@@ -1,0 +1,8 @@
+apple
+beer
+bread
+cheese
+milk
+orange
+juice
+water
